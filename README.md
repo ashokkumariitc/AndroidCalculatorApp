@@ -9,4 +9,9 @@ Requirements
 * Buttons that the user can press to input the operators and operands
 * The app should sign in the user using Facebook or Google sign in.
 * The core calculator arithmetic logic should be written as an android library framework
-that is used by the app as a separate grade dependency.
+that is used by the app as a separate gradle dependency.
+
+Execution :-
+1) For Add, Sub, Divide and Multiply user need to enter in the 1st and 2nd Edit text box.
+2) For sin, cos and tan, the value in the first input will only be processed.
+3) In case of error, proper toast message will be displayed.
